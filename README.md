@@ -39,4 +39,4 @@ The source code is available under the MIT license. See LICENSE for more informa
 
 This project was inspired by various resources and similar projects in the field of data science. Special thanks to all contributors and the open-source community.
 
-© Copyright [Current Year] João Henrique. All rights reserved.
+© Copyright 2023 João Henrique. All rights reserved.
